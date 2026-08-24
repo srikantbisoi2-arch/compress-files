@@ -1,0 +1,6 @@
+{
+  "name": "PDF & Image Compressor",
+  "description": "Compress PDF documents and images to custom target sizes in KB or MB with high quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
